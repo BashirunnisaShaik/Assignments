@@ -1,0 +1,5 @@
+std=("Bashir",18,"CME",85)
+print(std[0])
+print(std[1])
+print(std[2])
+print(std[3])

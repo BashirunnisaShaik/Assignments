@@ -1,0 +1,6 @@
+numbers=(10,20,30)
+n=list(numbers)
+n.append(40)
+n.append(50)
+n.append(60)
+print(n)
